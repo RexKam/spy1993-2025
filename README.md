@@ -1,4 +1,4 @@
-# 📈 SPY 1993-2025 Analysis
+#  SPY 1993-2025 Analysis
 
 This project uses Python and Jupyter Notebook to analyze the historical daily trading data of SPY (S&P 500 ETF) from 1993 to 2025. The notebook covers data preprocessing, feature exploration, visualization, and regression modeling for predicting closing prices.
 
